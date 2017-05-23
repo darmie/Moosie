@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_f0b7e74807a07f3c8fd0449e17840ec7565df308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\libs\jsr-223-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50cc5fdf691c948f9fb952392c19d10920389f50">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\jsr-223-1.0_159426d9e358eb1e7b90fb01f46d79424b97494b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f6126d844204af6518b3b626ef25769c1f8a5482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_c3bc6c49b03ecf16747866a9a49f01b6e45fdd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_6442e046a709d7545ccd3fd0d97deceabadabc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_01a6ac86896f716c4aac419af12d63ab29675708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_02e138cdfadcd1da7efb55757876cfb4ef372179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_4996ceed70ee15c40085fd0fd0c0cbbdb64815c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilare\Development\MooseCode\Moose\libs\bcel-6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d08bcac4832f81467d3e2ca5bd58ad627288656">
+        <dex dex="C:\Users\Damilare\Development\MooseCode\Moose\build\intermediates\pre-dexed\debug\bcel-6.0_3bf7e95b1b03adc9c8ccd5365f729fc38a223804.jar" />
+    </item>
+
+</items>
